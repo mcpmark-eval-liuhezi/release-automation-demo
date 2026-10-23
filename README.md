@@ -18,3 +18,5 @@ branch, goes through a reviewed pull request, and lands as a single squashed mer
 
 Every artifact here is real GitHub state you can click into, diff, and verify — commits,
 reviews, comments, and the merge are all inspectable long after screenshots go stale.
+
+Sandbox note: everything in this repository is disposable demo content — expect it to change without warning.
